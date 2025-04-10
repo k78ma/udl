@@ -1,0 +1,18 @@
+## Understanding Deep Learning
+- [x] 1.1 - Background Mathematics
+- [x] 2.1 - Supervised Learning
+- [x] 3.1 - Shallow Networks I
+- [ ] 3.2 - Shallow Networks II
+- [ ] 3.3 - Shallow Network Regions
+- [ ] 3.4 - Activation Functions
+- [ ] 4.1 - Composing Networks
+- [ ] 4.2 - Clipping Functions
+- [ ] 4.3 - Deep Networks
+- [ ] 5.1 - Least Squares Loss
+- [ ] 5.2 - Binary Cross-Entropy Loss
+- [ ] 5.3 - Multiclass Cross-Entropy Loss
+- [ ] 6.1 - Line Search
+- [ ] 6.2 - Gradient Descent
+- [ ] 6.3 - Stochastic Gradient Descent
+- [ ] 6.4 - Momentum
+- [ ] 6.5 - Adam
