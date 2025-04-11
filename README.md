@@ -2,7 +2,7 @@
 - [x] 1.1 - Background Mathematics
 - [x] 2.1 - Supervised Learning
 - [x] 3.1 - Shallow Networks I
-- [ ] 3.2 - Shallow Networks II
+- [x] 3.2 - Shallow Networks II
 - [ ] 3.3 - Shallow Network Regions
 - [ ] 3.4 - Activation Functions
 - [ ] 4.1 - Composing Networks
@@ -16,3 +16,23 @@
 - [ ] 6.3 - Stochastic Gradient Descent
 - [ ] 6.4 - Momentum
 - [ ] 6.5 - Adam
+- [ ] 7.1 - Backpropagation in Toy Model
+- [ ] 7.2 - Backpropagation
+- [ ] 7.3 - Initialization
+- [ ] 8.1 - MNIST 1D Performance
+- [ ] 8.2 - Bias-Variance Trade-Off
+- [ ] 8.3 - Double Descent
+- [ ] 8.4 - High Dimensional Spaces
+- [ ] 9.1 - L2 Regularization
+- [ ] 9.2 - Implicit Regularization
+- [ ] 9.3 - Ensembling
+- [ ] 9.4 - Bayesian Approach
+- [ ] 9.5 - Augmentation
+- [ ] 10.1 - 1D Convolution
+- [ ] 10.2 - Convolution for MNIST 1D
+- [ ] 10.3 - 2D Convolution
+- [ ] 10.4 - Downsampling and Upsampling
+- [ ] 10.5 - Convolution for MNIST
+- [ ] 11.1 - Shattered Gradients
+- [ ] 11.2 - Residual Networks
+- [ ] 11.3 - Batch Normalization
