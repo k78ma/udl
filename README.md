@@ -4,7 +4,7 @@
 - [x] 3.1 - Shallow Networks I
 - [x] 3.2 - Shallow Networks II
 - [x] 3.3 - Shallow Network Regions
-- [ ] 3.4 - Activation Functions
+- [x] 3.4 - Activation Functions
 - [ ] 4.1 - Composing Networks
 - [ ] 4.2 - Clipping Functions
 - [ ] 4.3 - Deep Networks
