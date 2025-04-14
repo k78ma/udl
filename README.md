@@ -6,7 +6,7 @@
 - [x] 3.3 - Shallow Network Regions
 - [x] 3.4 - Activation Functions
 - [x] 4.1 - Composing Networks
-- [ ] 4.2 - Clipping Functions
+- [x] 4.2 - Clipping Functions
 - [ ] 4.3 - Deep Networks
 - [ ] 5.1 - Least Squares Loss
 - [ ] 5.2 - Binary Cross-Entropy Loss
