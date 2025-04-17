@@ -7,7 +7,7 @@
 - [x] 3.4 - Activation Functions
 - [x] 4.1 - Composing Networks
 - [x] 4.2 - Clipping Functions
-- [ ] 4.3 - Deep Networks
+- [x] 4.3 - Deep Networks
 - [ ] 5.1 - Least Squares Loss
 - [ ] 5.2 - Binary Cross-Entropy Loss
 - [ ] 5.3 - Multiclass Cross-Entropy Loss
